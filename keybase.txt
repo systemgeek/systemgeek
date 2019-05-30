@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/systemgeek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://systemgeek.github.io
+  * I am systemgeek (https://keybase.io/systemgeek) on keybase.
+  * I have a public key ASA1-3Yu8BE05YKC0zCwjUlNwO98gALhA-iPzeaZYF29VAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012035fb762ef01134e58282d330b08d494dc0ef7c8002e103e88fcde699605dbd540a",
+      "host": "keybase.io",
+      "kid": "012035fb762ef01134e58282d330b08d494dc0ef7c8002e103e88fcde699605dbd540a",
+      "uid": "6d83e8602c80a7ca164e1f3cb5ecfe19",
+      "username": "systemgeek"
+    },
+    "merkle_root": {
+      "ctime": 1559214845,
+      "hash": "cfbf5df10e9e180e8160ff1fc91ce9336d5cb31b9b9f3bf091cc33100ab02c5028ed146968e116386b3fd9aa294fe3f67b9c5dab5d0886df87c341545b8c8066",
+      "hash_meta": "8d8e1eb0c93773b8da9b5ff5a871b835c1e088d1783f0ed30e9ed1706b7ce455",
+      "seqno": 5474954
+    },
+    "service": {
+      "entropy": "Dyvw1HjhbTvIo0K8BGu2fIXv",
+      "hostname": "systemgeek.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1559214862,
+  "expire_in": 504576000,
+  "prev": "43b819150b15c41c16a9ebaba66fcb3fd57179e4b307997fdded5c5b32eef489",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNft2LvARNOWCgtMwsI1JTcDvfIAC4QPoj83mmWBdvVQKp3BheWxvYWTESpcCCcQgQ7gZFQsVxBwWqeurpm/LP9VxeeSzB5l/3e1cWzLu9InEIGhdhIPBSTrnMEUpUdFKlAj818ioIU7j0Z9c1cfQQjcXAgHCo3NpZ8RATFOwscrJ1HCjdMMfNN+HI2gxm7L4RO8VGepCUvdFaWACnaKrunssbDgRvr+pBHb5t80esiYwuhS29vPMS0FkC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMERhjRtFAaCuaeFGTK1CCy/MWuB4eEiJEFtjR9EOs77o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/systemgeek
+
+==================================================================
