@@ -37,6 +37,7 @@ DEFAULT_PAGINATION = 10
 # static paths will be copied without parsing their contents
 STATIC_PATHS = [
     'images',
-    'static_pages',
+    '.well-known',
     ]
 
+PAGE_PATHS = [ '.well-known' ]
